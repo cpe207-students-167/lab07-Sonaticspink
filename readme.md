@@ -3,11 +3,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.: 660610747
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : ชิตพันธ์ พะหงษา
 
-GitHub Page URL :
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-Sonaticspink/
 
 ---
 
